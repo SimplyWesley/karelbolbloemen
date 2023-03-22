@@ -2,10 +2,9 @@
     <div class="navbar-inverse">
         <div class="container">
             <div class="row">
-                <div class="col-2">
-                    <p class="navbar-text">Door <a href="https://www.wesleyteubl.com" style="color: white;" target="_blank" class="navbar-link">Wesley Teubl</a></p>
-                </div>
-                <div class="col-10">
+                <div class="col-12">
+                    <p class="navbar-text">
+                        Door <a href="https://www.wesleyteubl.com" style="color: white;" target="_blank" class="navbar-link mr-3">Wesley Teubl</a></p>
                     <p class="navbar-text">
                         <a href="https://goo.gl/maps/xxKzAisSK8zAhg4eA" target="_blank">© 2023 Karel Bolbloemen B.V. <span>|</span>
                             De Gouw 3 <span>|</span>

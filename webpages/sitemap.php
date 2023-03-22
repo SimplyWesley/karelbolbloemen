@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Welkom bij Karel Bolbloemen B.V.</title>
+    <title>Welkom bij Karel Bolbloemen B.V. - Sitemap</title>
     <?php include("../base/head.php") ?>
 </head>
 
@@ -32,15 +32,23 @@
                         <li><a href="./assortiment/bi-color/dow-jones.php">https://www.karel.nl/webpages/assortiment/bi-color/dow-jones.php</a></li>
                         <li><a href="./assortiment/bi-color/jan-seignette.php">https://www.karel.nl/webpages/assortiment/bi-color/jan-seignette.php</a></li>
                         <li><a href="./assortiment/bi-color/leen-van-der-mark.php">https://www.karel.nl/webpages/assortiment/bi-color/leen-van-der-mark.php</a></li>
+                        <li><a href="./assortiment/bi-color/cadiz.php">https://www.karel.nl/webpages/assortiment/bi-color/cadiz.php</a></li>
+                        <li><a href="./assortiment/bi-color/dutch-deisgn.php">https://www.karel.nl/webpages/assortiment/bi-color/dutch-design.php</a></li>
+                        <li><a href="./assortiment/bi-color/esta-bonita.php">https://www.karel.nl/webpages/assortiment/bi-color/esta-bonita.php</a></li>
                         <li><a href="./assortiment/geel/sunny-prince.php">https://www.karel.nl/webpages/assortiment/geel/sunny-prince.php</a></li>
                         <li><a href="./assortiment/paars/laptop.php">https://www.karel.nl/webpages/assortiment/paars/laptop.php</a></li>
                         <li><a href="./assortiment/paars/purple-prince.php">https://www.karel.nl/webpages/assortiment/paars/purple-prince.php</a></li>
                         <li><a href="./assortiment/rood/toproy.php">https://www.karel.nl/webpages/assortiment/rood/toproy.php</a></li>
+                        <li><a href="./assortiment/rood/charade-red.php">https://www.karel.nl/webpages/assortiment/rood/charade-red.php</a></li>
+                        <li><a href="./assortiment/rood/pallada.php">https://www.karel.nl/webpages/assortiment/rood/pallada.php</a></li>
                         <li><a href="./assortiment/roze/pink-prince.php">https://www.karel.nl/webpages/assortiment/roze/pink-prince.php</a></li>
+                        <li><a href="./assortiment/roze/joëlle.php">https://www.karel.nl/webpages/assortiment/roze/joëlle.php</a></li>
+                        <li><a href="./assortiment/roze/pink-flag.php">https://www.karel.nl/webpages/assortiment/roze/pink-flag.php</a></li>
                         <li><a href="./assortiment/wit/white-prince.php">https://www.karel.nl/webpages/assortiment/wit/white-prince.php</a></li>
                         <li><a href="./werkwijze.php">https://www.karel.nl/webpages/werkwijze.php</a></li>
                         <li><a href="./team.php">https://www.karel.nl/webpages/team.php</a></li>
                         <li><a href="./contact.php">https://www.karel.nl/webpages/contact.php</a></li>
+                        <li><a href="./sitemap.php">https://www.karel.nl/webpages/sitemap.php</a></li>
                     </ul>
                 </div>
             </div>

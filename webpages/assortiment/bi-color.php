@@ -47,6 +47,30 @@
           <p></p> -->
           </a>
         </div>
+        <div class="col-md-3 profile-pic text-center">
+          <a class="img-box" href="../assortiment/bi-color/cadiz.php">
+            <img src="../../img/assortiment/6370-Lightroom1.jpg" class="img-responsive">
+            <h2>Cadiz</h2>
+            <!-- <h3></h3>
+          <p></p> -->
+          </a>
+        </div>
+        <div class="col-md-3 profile-pic text-center">
+          <a class="img-box" href="../assortiment/bi-color/dutch-design.php">
+            <img src="../../img/assortiment/6191-Lightroom1.jpg" class="img-responsive">
+            <h2>Dutch Design</h2>
+            <!-- <h3></h3>
+          <p></p> -->
+          </a>
+        </div>
+        <div class="col-md-3 profile-pic text-center">
+          <a class="img-box" href="../assortiment/bi-color/esta-bonita.php">
+            <img src="../../img/assortiment/6368-Lightroom1.jpg" class="img-responsive">
+            <h2>Esta Bonita</h2>
+            <!-- <h3></h3>
+          <p></p> -->
+          </a>
+        </div>
       </div>
     </div>
   </section>

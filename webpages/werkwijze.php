@@ -29,9 +29,11 @@
             gerooid waarna ze worden gezeefd of gespoeld, gedroogd, gesorteerd en uiteindelijk opgeslagen in de cel.
             Benieuwd hoe het zeven van bollen in zijn werk gaat? Klik dan op onderstaand filmpje.<br><br>
 
-            <iframe src="https://www.youtube.com/embed/rLwvQaZTXGs"  class="img-fluid" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rLwvQaZTXGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
 
-            <br><br>
+            <br>
             <h3>Broeierij</h3>
             Na het pellen krijgen de bollen een temperatuurbehandeling volgens een strak schema. Zo worden de bollen
             geprepareerd om in de gewenste periodes te groeien.<br><br>

@@ -47,23 +47,6 @@
       </div>
     </div>
   </section>
-  <!-- Afbeelding -->
-  <!-- <div class="indexTitle" style="background-image: url('img/headerKarel.jpg');">
-    <div class="container-fluid">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-6 col-xl-4 text-center text-lg-center d-flex align-items-center">
-          <h1 class="title">Het is mogelijk hier tekst te plaatsen<br></h1>
-        </div>
-        <div class="col-12 col-lg-6 col-xl-4 text-center text-lg-left d-flex align-items-center">
-          <div class="content">
-            <p>
-              <br><br><br><br><br>Het is mogelijk hier tekst te plaatsen<br><br><br><br><br>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
 
   <!-- Image Divider -->
   <img class="img-fluid" src="../img/slider/headerKarel.jpg">
@@ -75,9 +58,7 @@
         <div class="col-md-6">
           <h2>Werkwijze</h2>
           <div class="werkwijze-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Onze werkwijze met gebruik van bollen van eigen teelt en het broeien van de bloemen op water, dragen bij aan de hoge kwaliteit van onze bloemen. Hierbij maken we gebruik van de modernste technologie die beschikbaar is binnen onze sector.
           </div>
           <a href="werkwijze.php" type="button" class="btn btn-primary">Werkwijze</a>
         </div>

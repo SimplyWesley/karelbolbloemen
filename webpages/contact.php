@@ -14,7 +14,6 @@
   <section id="contact">
     <div class="container">
       <h1>Contact</h1>
-
       <div class="container-form">
         <form action="process.php" method="post">
           <input type="text" name="name" id="name" placeholder="Naam" required>

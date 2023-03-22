@@ -146,33 +146,7 @@ h1.title {
   color: white;
 }
 
-/* Flowers */
-#flowers {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  color: #555 !important;
-}
-#flowers .btn {
-  margin-top: 20px;
-  margin-bottom: 30px;
-  background-color: #3d8d59 !important;
-}
-#flowers img {
-  width: 100%;
-  padding-left: 50px;
-}
-
-#flowers .container-content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-}
-
-#flowers > .carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  width: 100%;
-}
+/* Rest */
 
 #error {
   padding-top: 30px;
@@ -231,16 +205,27 @@ form button {
   cursor: pointer;
 }
 
-iframe {
-  width: 560;
-  height: 315;
+
+/* Flowers */
+#flowers {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #555 !important;
+}
+
+#flowers img {
+  width: 100%;
+  padding-left: 50px;
+}
+
+#flowers .container-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
 }
 
 @media (max-width: 1309px) {
-  iframe {
-    width: 300 !important;
-    height: 170 !important;
-  }
   #flowers .container-content {
     display: flex;
     justify-content: space-around;

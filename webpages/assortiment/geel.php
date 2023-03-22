@@ -23,31 +23,6 @@
           <p>...</p> -->
           </a>
         </div>
-        <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="">
-            <img src="" class="img-responsive">
-            <h2>Bloem 2</h2>
-            <!-- <h3></h3>
-          <p></p> -->
-          </a>
-        </div>
-        <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="">
-            <img src="" class="img-responsive">
-            <h2>Bloem 3</h2>
-            <!-- <h3></h3>
-          <p></p> -->
-          </a>
-        </div>
-        <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="">
-            <img src="" class="img-responsive">
-            <h2>Bloem 4</h2>
-            <!-- <h3></h3>
-          <p></p> -->
-          </a>
-        </div>
-
       </div>
     </div>
   </section>
