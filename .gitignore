@@ -4,3 +4,6 @@ img/
 old/
 .htaccess
 Uren.xlsx
+require/
+vendor/
+sql/

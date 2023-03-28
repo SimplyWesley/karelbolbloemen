@@ -49,7 +49,8 @@
   </section>
 
   <!-- Image Divider -->
-  <img class="img-fluid" src="../img/slider/headerKarel.jpg">
+  <img class="img-fluid" src="../img/slider/header3.png">
+  <!-- <div class="divider"></div> -->
 
   <!-- Werkwijze -->
   <section id="werkwijze">
