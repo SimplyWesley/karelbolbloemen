@@ -50,10 +50,10 @@
       <h1>Contact</h1>
       <div class="container-form">
         <form id="form" action="process.php" method="post">
-          <input type="text" name="name" id="name" placeholder="Naam" required>
-          <input type="email" name="email" id="email" placeholder="Email" required>
-          <input type="text" name="subject" id="subject" placeholder="Onderwerp" required>
-          <textarea name="message" name="message" id="message" rows="4" placeholder="Bericht" required></textarea>
+          <input type="text" name="name" id="name" placeholder="Naam" onchange="enableBtn()" required>
+          <input type="email" name="email" id="email" placeholder="Email" onchange="enableBtn()" required>
+          <input type="text" name="subject" id="subject" placeholder="Onderwerp" onchange="enableBtn()" required>
+          <textarea name="message" name="message" id="message" rows="4" placeholder="Bericht" onchange="enableBtn()" required></textarea>
           <div class="g-recaptcha" id="my-recaptcha" data-callback="enableBtn" data-sitekey=<?php echo $public_key; ?>></div>
           <input type="submit" id="form-submit" name="submit" value="Versturen"></input>
         </form>
@@ -66,11 +66,25 @@
 
   <script>
     function onloadCallback() {
-      document.getElementById("form-submit").disabled = true;
+      var btn = document.getElementById("form-submit");
+      btn.disabled = true;
+      btn.style.cursor = "not-allowed";
+      btn.style.opacity = "0.5";
     };
 
     function enableBtn() {
-      document.getElementById("form-submit").disabled = false;
+      var btn = document.getElementById("form-submit");
+      var name = document.getElementById("name").value;
+      var email = document.getElementById("email").value;
+      var subject = document.getElementById("subject").value;
+      var message = document.getElementById("message").value;
+      var captcha = grecaptcha.getResponse();
+      if (captcha && name && email && subject && message) {
+        btn.disabled = false;
+        btn.style.cursor = "pointer";
+        btn.style.opacity = "1";
+        btn.style.transition = "opacity 0.5s ease-in-out";
+      }
     }
   </script>
   <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
