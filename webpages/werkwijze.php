@@ -24,7 +24,7 @@
             Noordoostpolder, de Flevopolder, Zeeuws-Vlaanderen en Groningen. Het planten van de bollen gebeurt in de
             maanden oktober en november.<br><br>
             Een deel van onze bollen wordt onder folie geteeld. Van deze bollen kunnen dan in de kas eerder bloemen in
-            bloei getrokken worden. Bijna alle bollen die we zelf telen zijn bestemd voor ons eigen broeierij.<br><br>
+            bloei getrokken worden. Bijna alle bollen die we zelf telen zijn bestemd voor onze eigen broeierij.<br><br>
             In het voorjaar wordt er geselecteerd, beregend en gekopt. Vervolgens worden de bollen in juni en juli
             gerooid waarna ze worden gezeefd of gespoeld, gedroogd, gesorteerd en uiteindelijk opgeslagen in de cel.
             Benieuwd hoe het zeven van bollen in zijn werk gaat? Klik dan op onderstaand filmpje.<br><br>

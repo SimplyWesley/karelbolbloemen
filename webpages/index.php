@@ -59,7 +59,7 @@
         <div class="col-md-6">
           <h2>Werkwijze</h2>
           <div class="werkwijze-content">
-            Onze werkwijze met gebruik van bollen van eigen teelt en het broeien van de bloemen op water, dragen bij aan de hoge kwaliteit van onze bloemen. Hierbij maken we gebruik van de modernste technologie die beschikbaar is binnen onze sector.
+            Onze werkwijze met gebruik van bollen van eigen teelt en het broeien van de bloemen op water, draagt bij aan de hoge kwaliteit van onze bloemen. Hierbij maken we gebruik van de modernste technologie die beschikbaar is binnen onze sector.
           </div>
           <a href="werkwijze.php" type="button" class="btn btn-primary">Werkwijze</a>
         </div>
