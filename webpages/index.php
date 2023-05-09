@@ -49,7 +49,7 @@
   </section>
 
   <!-- Image Divider -->
-  <img class="img-fluid" src="../img/slider/header3.png">
+  <!-- <img class="img-fluid" src="../img/slider/header3.png"> -->
   <!-- <div class="divider"></div> -->
 
   <!-- Werkwijze -->

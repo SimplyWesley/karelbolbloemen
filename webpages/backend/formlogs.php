@@ -1,8 +1,11 @@
 <?php
 
-include("../base/head.php");
+include("../../base/head.php");
 
-require_once("../sql/config.php");
+require_once("../../require/config.php");
+require_once("./functions.php");
+
+include("./logincheck.php");
 
 if (!isset($_GET['dir'])) {
     $_GET['dir'] = 0;
@@ -35,7 +38,7 @@ $statement->execute();
 $formlogs = $statement->fetchAll();
 
 ?>
-
+<a href="./logout.php" style="color: inherit; padding-left: 15px;">Uitloggen</a>
 <div class="table">
     <table>
         <thead>

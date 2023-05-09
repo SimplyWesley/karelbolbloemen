@@ -1,8 +1,11 @@
+<?php include("../require/recaptchakey.php") ?>
+
 <html>
 
 <head>
-  <title>Karel Bolbloemen B.V. - Onze Werkwijze</title>
+  <title>Karel Bolbloemen B.V. - Contact</title>
   <?php include("../base/head.php") ?>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
 <body>
@@ -51,15 +54,28 @@
           <input type="email" name="email" id="email" placeholder="Email" required>
           <input type="text" name="subject" id="subject" placeholder="Onderwerp" required>
           <textarea name="message" name="message" id="message" rows="4" placeholder="Bericht" required></textarea>
-          <input type="submit" name="submit" value="Versturen"></input>
+          <div class="g-recaptcha" id="my-recaptcha" data-callback="enableBtn" data-sitekey=<?php echo $public_key; ?>></div>
+          <input type="submit" id="form-submit" name="submit" value="Versturen"></input>
         </form>
       </div>
-
     </div>
   </section>
 
   <!-- Footer -->
   <?php include("../base/footer.php") ?>
+
+  <script>
+    function onloadCallback() {
+      document.getElementById("form-submit").disabled = true;
+    };
+
+    function enableBtn() {
+      document.getElementById("form-submit").disabled = false;
+    }
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+
+
 </body>
 
 </html>

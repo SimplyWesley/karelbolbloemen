@@ -9,10 +9,10 @@ require_once("../require/config.php");
 require_once("../require/smtp.php");
 
 if (isset($_POST['submit'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $subject = $_POST['subject'];
-    $message = $_POST['message'];
+    $name = htmlspecialchars($_POST['name']);
+    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+    $subject = htmlspecialchars($_POST['subject']);
+    $message = htmlspecialchars($_POST['message']);
 
     $mail = new PHPMailer(true);
 
@@ -31,13 +31,6 @@ if (isset($_POST['submit'])) {
 
     try {
         $mail->send();
-        header("Location: ../webpages/contact.php?submit=true");
-    } catch (Exception $e) {
-        header("Location: ../webpages/contact.php?submit=false");
-        exit();
-    }
-
-    try {
         $query = "INSERT INTO `formlog` (`name`, `email`, `subject`, `message`) VALUES 
                 (:name, :email, :subject, :message)";
         $statement = $conn->prepare($query);
@@ -49,13 +42,9 @@ if (isset($_POST['submit'])) {
             ':message' => $message
         ];
         $query_execute = $statement->execute($data);
-
-        if ($query_execute) {
-            header("Location: ../webpages/contact.php?submit=true");
-        } else {
-            header("Location: ../webpages/contact.php?submit=false");
-        }
-    } catch (PDOException $e) {
-        echo $e->getMessage();
+        header("Location: ../webpages/contact.php?submit=true");
+    } catch (Exception $e) {
+        header("Location: ../webpages/contact.php?submit=false");
+        exit();
     }
 }
