@@ -31,6 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 
 <body>
+    <?php include("../../base/navbar.php"); ?>
     <section id="login">
         <div class="container">
             <h1>Login</h1>

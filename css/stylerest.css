@@ -169,6 +169,10 @@ h1.title {
   padding-bottom: 50px;
 }
 #login {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+#register {
   padding-top: 30px;
   padding-bottom: 50px;
 }
