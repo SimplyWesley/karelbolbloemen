@@ -11,7 +11,7 @@
                             1611 BS Bovenkarspel <span>|</span></a>
                         Tel. <a href="tel:0228513142">0228-512142</a> <span>|</span>
                         Email: <a href="mailto:info@karel.nl" style="color: white">info@karel.nl</a> <span>|</span>
-                        <a href="../webpages/sitemap.php" style="color: white">Sitemap</a> <span>|</span>
+                        <a href="../webpages/sitemap" style="color: white">Sitemap</a> <span>|</span>
                         <a href="https://m.facebook.com/profile.php?id=100063553781730" target="_blank"><i class="fa fa-facebook"></i></a> <span>|</span>
                         <a href="" target="_blank"><i class="fa fa-instagram"></i></a>
                     </p>

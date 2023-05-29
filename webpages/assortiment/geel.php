@@ -16,7 +16,7 @@
       <h1>Geel</h1>
       <div class="row">
         <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="../assortiment/geel/sunny-prince.php">
+          <a class="img-box" href="../assortiment/geel/sunny-prince">
             <img src="../../img/assortiment/5546-Lightroom1.jpg" class="img-responsive">
             <h2>Sunny Prince</h2>
             <!-- <h3>...</h3>

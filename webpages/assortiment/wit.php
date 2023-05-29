@@ -16,7 +16,7 @@
       <h1>Wit</h1>
       <div class="row">
         <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="../assortiment/wit/white-prince.php">
+          <a class="img-box" href="../assortiment/wit/white-prince">
             <img src="../../img/assortiment/5544-Lightroom1.jpg" class="img-responsive">
             <h2>White Prince</h2>
             <!-- <h3>...</h3>

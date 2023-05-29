@@ -40,7 +40,7 @@
         </div>
         <div class="col-md-3 profile-pic text-center">
           <a class="img-box" href="assortiment/roze.php">
-            <img src="../img/assortiment/5595-Lightroom1.jpg" class="img-responsive">
+            <img src="../img/assortiment/6221-Lightroom1.jpg" class="img-responsive">
             <h2>Roze</h2>
             <!-- <h3></h3>
           <p></p> -->

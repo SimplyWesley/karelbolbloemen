@@ -26,7 +26,7 @@
             Op deze website vindt u informatie over ons bedrijf, ons assortiment en uitleg over onze systemen.
 
           </div>
-          <a href="ons-bedrijf.php" type="button" class="btn btn-primary">Lees meer</a>
+          <a href="ons-bedrijf" type="button" class="btn btn-primary">Lees meer</a>
         </div>
       </div>
     </div>
@@ -42,7 +42,7 @@
             We telen ongeveer 30 commerci&euml;le soorten verdeelt over alle kleuren. Deze komen allemaal uit de tulpengroep
             Triumph. Het zijn enkele tulpen die geschikt zijn voor de retail.
           </div>
-          <a href="assortiment.php" type="button" class="btn btn-primary">Assortiment</a>
+          <a href="ons-assortiment" type="button" class="btn btn-primary">Assortiment</a>
         </div>
       </div>
     </div>
@@ -61,7 +61,7 @@
           <div class="werkwijze-content">
             Onze werkwijze met gebruik van bollen van eigen teelt en het broeien van de bloemen op water, draagt bij aan de hoge kwaliteit van onze bloemen. Hierbij maken we gebruik van de modernste technologie die beschikbaar is binnen onze sector.
           </div>
-          <a href="werkwijze.php" type="button" class="btn btn-primary">Werkwijze</a>
+          <a href="werkwijze" type="button" class="btn btn-primary">Werkwijze</a>
         </div>
       </div>
     </div>

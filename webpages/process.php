@@ -8,11 +8,20 @@ require '../vendor/autoload.php';
 require_once("../require/config.php");
 require_once("../require/smtp.php");
 
-if (isset($_POST['submit'])) {
+if (isset($_POST['submit']) || filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
     $name = htmlspecialchars($_POST['name']);
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
     $subject = htmlspecialchars($_POST['subject']);
     $message = htmlspecialchars($_POST['message']);
+
+    if (isset($_POST['g-recaptcha-response'])) {
+        $captcha = $_POST['g-recaptcha-response'];
+    }
+
+    if (!$captcha) {
+        echo "<script>window.location.href = 'contact?submit=captcha';</script>";
+        exit();
+    }
 
     $mail = new PHPMailer(true);
 

@@ -22,7 +22,7 @@
   ?>
       <div class="alerts">
         <div class="alert alert-success alert-dismissible fade show m-3" role="alert">
-          <strong>Success!</strong> Jouw bericht is verzonden!
+          <strong>Gelukt!</strong> Jouw bericht is verzonden!
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -34,6 +34,17 @@
       <div class="alerts">
         <div class="alert alert-danger alert-dismissible fade show m-3" role="alert">
           <strong>Error!</strong> Er is een fout opgetreden. Probeer het later opnieuw.
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+      </div>
+    <?php
+    } else if ($_GET['submit'] == "captcha") {
+    ?>
+      <div class="alerts">
+        <div class="alert alert-danger alert-dismissible fade show m-3" role="alert">
+          <strong>Error!</strong> Vul de captcha in.
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>

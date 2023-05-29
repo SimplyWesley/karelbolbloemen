@@ -17,38 +17,38 @@
             <h1>Sitemap</h1>
             <div class="row">
                 <div class="col-12">
-                    <a href="index.php" style="color: black;"></a>
+                    <a href="index" style="color: black;"></a>
                     <ul>
-                        <li><a href="./index.php">https://www.karel.nl/webpages/index.php</a></li>
-                        <li><a href="./ons-bedrijf.php">https://www.karel.nl/webpages/ons-bedrijf.php</a></li>
-                        <li><a href="./assortiment.php">https://www.karel.nl/webpages/assortiment.php</a></li>
-                        <li><a href="./assortiment/bi-color.php">https://www.karel.nl/webpages/assortiment/geel.php</a></li>
-                        <li><a href="./assortiment/geel.php">https://www.karel.nl/webpages/assortiment/geel.php</a></li>
-                        <li><a href="./assortiment/paars.php">https://www.karel.nl/webpages/assortiment/paars.php</a></li>
-                        <li><a href="./assortiment/rood.php">https://www.karel.nl/webpages/assortiment/rood.php</a></li>
-                        <li><a href="./assortiment/roze.php">https://www.karel.nl/webpages/assortiment/roze.php</a></li>
-                        <li><a href="./assortiment/wit.php">https://www.karel.nl/webpages/assortiment/wit.php</a></li>
-                        <li><a href="./assortiment/bi-color/aomori.php">https://www.karel.nl/webpages/assortiment/bi-color/aomori.php</a></li>
-                        <li><a href="./assortiment/bi-color/dow-jones.php">https://www.karel.nl/webpages/assortiment/bi-color/dow-jones.php</a></li>
-                        <li><a href="./assortiment/bi-color/jan-seignette.php">https://www.karel.nl/webpages/assortiment/bi-color/jan-seignette.php</a></li>
-                        <li><a href="./assortiment/bi-color/leen-van-der-mark.php">https://www.karel.nl/webpages/assortiment/bi-color/leen-van-der-mark.php</a></li>
-                        <li><a href="./assortiment/bi-color/cadiz.php">https://www.karel.nl/webpages/assortiment/bi-color/cadiz.php</a></li>
-                        <li><a href="./assortiment/bi-color/dutch-deisgn.php">https://www.karel.nl/webpages/assortiment/bi-color/dutch-design.php</a></li>
-                        <li><a href="./assortiment/bi-color/esta-bonita.php">https://www.karel.nl/webpages/assortiment/bi-color/esta-bonita.php</a></li>
-                        <li><a href="./assortiment/geel/sunny-prince.php">https://www.karel.nl/webpages/assortiment/geel/sunny-prince.php</a></li>
-                        <li><a href="./assortiment/paars/laptop.php">https://www.karel.nl/webpages/assortiment/paars/laptop.php</a></li>
-                        <li><a href="./assortiment/paars/purple-prince.php">https://www.karel.nl/webpages/assortiment/paars/purple-prince.php</a></li>
-                        <li><a href="./assortiment/rood/toproy.php">https://www.karel.nl/webpages/assortiment/rood/toproy.php</a></li>
-                        <li><a href="./assortiment/rood/charade-red.php">https://www.karel.nl/webpages/assortiment/rood/charade-red.php</a></li>
-                        <li><a href="./assortiment/rood/pallada.php">https://www.karel.nl/webpages/assortiment/rood/pallada.php</a></li>
-                        <li><a href="./assortiment/roze/pink-prince.php">https://www.karel.nl/webpages/assortiment/roze/pink-prince.php</a></li>
-                        <li><a href="./assortiment/roze/joëlle.php">https://www.karel.nl/webpages/assortiment/roze/joëlle.php</a></li>
-                        <li><a href="./assortiment/roze/pink-flag.php">https://www.karel.nl/webpages/assortiment/roze/pink-flag.php</a></li>
-                        <li><a href="./assortiment/wit/white-prince.php">https://www.karel.nl/webpages/assortiment/wit/white-prince.php</a></li>
-                        <li><a href="./werkwijze.php">https://www.karel.nl/webpages/werkwijze.php</a></li>
-                        <li><a href="./team.php">https://www.karel.nl/webpages/team.php</a></li>
-                        <li><a href="./contact.php">https://www.karel.nl/webpages/contact.php</a></li>
-                        <li><a href="./sitemap.php">https://www.karel.nl/webpages/sitemap.php</a></li>
+                        <li><a href="./">https://www.karel.nl/</a></li>
+                        <li><a href="./ons-bedrijf">https://www.karel.nl/webpages/ons-bedrijf</a></li>
+                        <li><a href="./assortiment">https://www.karel.nl/webpages/assortiment</a></li>
+                        <li><a href="./assortiment/bi-color">https://www.karel.nl/webpages/assortiment/geel</a></li>
+                        <li><a href="./assortiment/geel">https://www.karel.nl/webpages/assortiment/geel</a></li>
+                        <li><a href="./assortiment/paars">https://www.karel.nl/webpages/assortiment/paars</a></li>
+                        <li><a href="./assortiment/rood">https://www.karel.nl/webpages/assortiment/rood</a></li>
+                        <li><a href="./assortiment/roze">https://www.karel.nl/webpages/assortiment/roze</a></li>
+                        <li><a href="./assortiment/wit">https://www.karel.nl/webpages/assortiment/wit</a></li>
+                        <li><a href="./assortiment/bi-color/aomori">https://www.karel.nl/webpages/assortiment/bi-color/aomori</a></li>
+                        <li><a href="./assortiment/bi-color/dow-jones">https://www.karel.nl/webpages/assortiment/bi-color/dow-jones</a></li>
+                        <li><a href="./assortiment/bi-color/jan-seignette">https://www.karel.nl/webpages/assortiment/bi-color/jan-seignette</a></li>
+                        <li><a href="./assortiment/bi-color/leen-van-der-mark">https://www.karel.nl/webpages/assortiment/bi-color/leen-van-der-mark</a></li>
+                        <li><a href="./assortiment/bi-color/cadiz">https://www.karel.nl/webpages/assortiment/bi-color/cadiz</a></li>
+                        <li><a href="./assortiment/bi-color/dutch-deisgn">https://www.karel.nl/webpages/assortiment/bi-color/dutch-design</a></li>
+                        <li><a href="./assortiment/bi-color/esta-bonita">https://www.karel.nl/webpages/assortiment/bi-color/esta-bonita</a></li>
+                        <li><a href="./assortiment/geel/sunny-prince">https://www.karel.nl/webpages/assortiment/geel/sunny-prince</a></li>
+                        <li><a href="./assortiment/paars/laptop">https://www.karel.nl/webpages/assortiment/paars/laptop</a></li>
+                        <li><a href="./assortiment/paars/purple-prince">https://www.karel.nl/webpages/assortiment/paars/purple-prince</a></li>
+                        <li><a href="./assortiment/rood/toproy">https://www.karel.nl/webpages/assortiment/rood/toproy</a></li>
+                        <li><a href="./assortiment/rood/charade-red">https://www.karel.nl/webpages/assortiment/rood/charade-red</a></li>
+                        <li><a href="./assortiment/rood/pallada">https://www.karel.nl/webpages/assortiment/rood/pallada</a></li>
+                        <li><a href="./assortiment/roze/pink-prince">https://www.karel.nl/webpages/assortiment/roze/pink-prince</a></li>
+                        <li><a href="./assortiment/roze/joëlle">https://www.karel.nl/webpages/assortiment/roze/joëlle</a></li>
+                        <li><a href="./assortiment/roze/pink-flag">https://www.karel.nl/webpages/assortiment/roze/pink-flag</a></li>
+                        <li><a href="./assortiment/wit/white-prince">https://www.karel.nl/webpages/assortiment/wit/white-prince</a></li>
+                        <li><a href="./werkwijze">https://www.karel.nl/webpages/werkwijze</a></li>
+                        <li><a href="./team">https://www.karel.nl/webpages/team</a></li>
+                        <li><a href="./contact">https://www.karel.nl/webpages/contact</a></li>
+                        <li><a href="./sitemap">https://www.karel.nl/webpages/sitemap</a></li>
                     </ul>
                 </div>
             </div>

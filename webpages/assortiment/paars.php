@@ -16,7 +16,7 @@
       <h1>Paars</h1>
       <div class="row">
         <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="../assortiment/paars/purple-prince.php">
+          <a class="img-box" href="../assortiment/paars/purple-prince">
             <img src="../../img/assortiment/5553-Lightroom1.jpg" class="img-responsive">
             <h2>Purple Prince</h2>
             <!-- <h3>...</h3>
@@ -24,7 +24,7 @@
           </a>
         </div>
         <div class="col-md-3 profile-pic text-center">
-          <a class="img-box" href="../assortiment/paars/laptop.php">
+          <a class="img-box" href="../assortiment/paars/laptop">
             <img src="../../img/assortiment/5644-Lightroom1.jpg" class="img-responsive">
             <h2>Laptop</h2>
             <!-- <h3></h3>
