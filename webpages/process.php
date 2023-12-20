@@ -36,7 +36,7 @@ if (isset($_POST['submit']) || filter_var($_POST['email'], FILTER_VALIDATE_EMAIL
     $mail->setFrom($smtp_username);
     $mail->addAddress($smtp_username);
     $mail->Subject = "Contactformulier: " . $subject;
-    $mail->Body = $message;
+    $mail->Body = "Email: " . $email . "<br><br>" . $message;
 
     try {
         $mail->send();
