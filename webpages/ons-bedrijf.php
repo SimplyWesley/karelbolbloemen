@@ -41,7 +41,7 @@
             <div class="date">1970</div>
             <p>In 1970 ontstond vanuit een studieclub het idee om gezamenlijk tulpen te broeien in een 2.000 m2
               commune-kas. Dit plan werd verwezenlijkt in samenwerking met onder andere gebr. de Wit, G. Oud, N. van der
-              Gullik, Nico Buysman, Andries Raven en Gebr. Karel.</p>
+              Gullik, Nico Buysman, Andries Raven, Gerard Koster en Gebr. Karel.</p>
           </div>
 
         </div>
