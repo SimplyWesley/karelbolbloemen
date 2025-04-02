@@ -95,25 +95,6 @@ footer a:hover {
   color: white;
 }
 
-/*----Werkwijze----*/
-
-#werkwijze {
-  padding-top: 30px;
-  padding-bottom: 50px;
-  color: #3d8d59 !important;
-}
-
-#werkwijze .btn {
-  margin-top: 20px;
-  margin-bottom: 30px;
-  background-color: #3d8d59 !important;
-}
-
-.werkwijze-content {
-  padding-top: 10px;
-  color: #555 !important;
-}
-
 /*----Assortiment----*/
 
 #assortiment {

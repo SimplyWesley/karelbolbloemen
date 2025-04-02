@@ -7,7 +7,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="../../../webpages">Home</a>
+            <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../../../webpages/ons-bedrijf">Ons Bedrijf</a>
@@ -20,6 +20,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../../../webpages/team">Ons Team</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../../../webpages/vacatures">Onze vacatures</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../../../webpages/contact">Contact</a>

@@ -67,6 +67,20 @@
     </div>
   </section>
 
+  <section id="vacature">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          <h2>Open vacature</h2>
+          <div class="vacature-content">
+            Wij hebben op dit moment een open vacature voor <b>Boekhoudkundig medewerker / Administrateur</b>.<br>In deze functie ben je verantwoordelijk voor het verzorgen van de financiële administratie van ons groeiende bedrijf. Je werkt nauw samen met de financial controller en ondersteunt deze met betrouwbare financiële data, voorbereiding voor in- en externe rapportages en ondersteuning bij de totstandkoming van de jaarcijfers.<br>Klik hieronder voor meer informatie.
+          </div>
+          <a href="vacatures" type="button" class="btn btn-primary">Vacature</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Footer -->
   <?php include("../base/footer.php") ?>
 
