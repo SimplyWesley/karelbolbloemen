@@ -153,6 +153,20 @@ h1.title {
   padding-bottom: 50px;
 }
 
+#vacatures {
+  padding-top: 30px;
+}
+
+.vacatures-content {
+  padding-top: 15px;
+  color: #555;
+  box-sizing: border-box;
+}
+
+.vacatures-content ul {
+  list-style: inside;
+}
+
 #sitemap {
   padding-top: 30px;
   padding-bottom: 50px;
