@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="vacatures-content">
                         <h2>Functieomschrijving</h2>
-                        <p>In deze functie ben je verantwoordelijk voor het verzorgen van de financiële administratie van ons groeiende bedrijf. Je werkt nauw samen met de financial controller en ondersteunt deze met betrouwbare financiële data, voorbereiding voor in- en externe rapportages en ondersteuning bij de totstandkoming van de jaarcijfers. Je verzorgt de BTW-aangifte, boekt de journaalposten en beheert de balansposities.</p>
+                        <p>Voor de versterking van ons financieel administratieve team zijn wij op zoek naar een nauwkeurige en gemotiveerde Boekhoudkundig medewerker/Administrateur voor 16 uur per week, bij voorkeur verdeeld over 4 werkdagen.<br>In deze functie ben je verantwoordelijk voor het verzorgen van de financiële administratie van ons groeiende bedrijf. Je werkt nauw samen met de financial controller en ondersteunt deze met betrouwbare financiële data, voorbereiding voor in- en externe rapportages en ondersteuning bij de totstandkoming van de jaarcijfers. Je verzorgt de BTW-aangifte, boekt de journaalposten en beheert de balansposities.</p>
                         <h2>Wie wij zoeken heeft:</h2>
                         <ul>
                             <li>Een afgeronde MBO-4 opleiding in financieel-administratieve richting (Bedrijfsadministratie, Boekhouden of vergelijkbaar)</li>

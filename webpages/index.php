@@ -26,7 +26,7 @@
             Op deze website vindt u informatie over ons bedrijf, ons assortiment en uitleg over onze systemen.
 
           </div>
-          <a href="ons-bedrijf" type="button" class="btn btn-primary">Lees meer</a>
+          <a href="webpages/ons-bedrijf" type="button" class="btn btn-primary">Lees meer</a>
         </div>
       </div>
     </div>
@@ -42,7 +42,7 @@
             We telen ongeveer 30 commerci&euml;le soorten verdeelt over alle kleuren. Deze komen allemaal uit de tulpengroep
             Triumph. Het zijn enkele tulpen die geschikt zijn voor de retail.
           </div>
-          <a href="ons-assortiment" type="button" class="btn btn-primary">Assortiment</a>
+          <a href="webpages/ons-assortiment" type="button" class="btn btn-primary">Assortiment</a>
         </div>
       </div>
     </div>
@@ -61,7 +61,7 @@
           <div class="werkwijze-content">
             Onze werkwijze met gebruik van bollen van eigen teelt en het broeien van de bloemen op water, draagt bij aan de hoge kwaliteit van onze bloemen. Hierbij maken we gebruik van de modernste technologie die beschikbaar is binnen onze sector.
           </div>
-          <a href="werkwijze" type="button" class="btn btn-primary">Werkwijze</a>
+          <a href="webpages/werkwijze" type="button" class="btn btn-primary">Werkwijze</a>
         </div>
       </div>
     </div>
@@ -75,7 +75,7 @@
           <div class="vacature-content">
             Wij hebben op dit moment een open vacature voor <b>Boekhoudkundig medewerker / Administrateur</b>.<br>In deze functie ben je verantwoordelijk voor het verzorgen van de financiële administratie van ons groeiende bedrijf. Je werkt nauw samen met de financial controller en ondersteunt deze met betrouwbare financiële data, voorbereiding voor in- en externe rapportages en ondersteuning bij de totstandkoming van de jaarcijfers.<br>Klik hieronder voor meer informatie.
           </div>
-          <a href="vacatures" type="button" class="btn btn-primary">Vacature</a>
+          <a href="webpages/vacatures" type="button" class="btn btn-primary">Vacature</a>
         </div>
       </div>
     </div>
